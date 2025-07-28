@@ -31,7 +31,7 @@ In the terminal, run the following commands to clone the project and navigate in
 
 ```bash
 git clone https://github.com/Darmolyna/remWasteReactApp
-cd googleBuildas
+cd remWasteReactApp
 ```
 
 ### 3. Install All Dependencies
