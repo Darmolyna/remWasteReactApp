@@ -5,7 +5,7 @@ This project covers UI testing using:
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 Before you begin, ensure the following tools are installed on your system:
 
@@ -14,7 +14,7 @@ Before you begin, ensure the following tools are installed on your system:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Open Visual Studio Code
 
@@ -44,7 +44,7 @@ npm install
 
 ---
 
-## ✅ Running Cypress Tests
+## Running Cypress Tests
 
 ### Option 1: Run Cypress in Interactive Mode (UI)
 
