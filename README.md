@@ -1,5 +1,4 @@
-# googleBuildas
-## Cypress Automation Testing - README
+## React APP Cypress Automation Test for REMWASTE - README
 
 This project covers UI testing using:  
 **Cypress** – for browser-based UI testing
